@@ -14,7 +14,7 @@ git clone https://github.com/okimasahiro/dockerbook.git
 
 
 ## 3.ファイルについて
-各フォルダーは以下の内容になっています。
+各フォルダーは以下の内容になっています。<br>
 ・04chapter・・・・第4章のファイル<br> 
 ・06chapter・・・・第6章のファイル<br>
 ・08chapter・・・・第8章のファイル<br>
