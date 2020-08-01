@@ -26,6 +26,9 @@ RUN yum install -y zip \
                    git \
                    systemd-sysv \
                    libxslt \
+                   openssl-devel \
+                   libxml2-devel \
+                   libedit-devel \
                    https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm \
                    http://rpms.famillecollet.com/enterprise/remi-release-7.rpm
 
